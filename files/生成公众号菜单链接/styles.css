@@ -387,7 +387,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:256px;
+  width:264px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -402,7 +402,7 @@
   position:absolute;
   left:586px;
   top:404px;
-  width:256px;
+  width:264px;
   height:20px;
   color:#FF0000;
 }
@@ -410,7 +410,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:256px;
+  width:264px;
   white-space:nowrap;
 }
 #u23_div {
