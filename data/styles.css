@@ -11,6 +11,8 @@
 }
 .box_2 {
 }
+.box_3 {
+}
 .ellipse {
 }
 .image {
@@ -103,4 +105,16 @@
 .flow_shape {
 }
 ._连接线 {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.html_button {
+  text-align:center;
+}
+._图片 {
 }
